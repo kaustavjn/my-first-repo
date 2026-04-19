@@ -1,1 +1,3 @@
-# my-first-repo
+# My First Repo
+
+Hello, I am a student learning GitHub.
